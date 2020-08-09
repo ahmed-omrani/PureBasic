@@ -1,0 +1,3 @@
+-le web c'est un echange entre un client et un serveur, le client c'est nous notre navigateur web qui nous permette de voir le web sur un ordinateur ou un smartphone et le serveur c'est un ordinateur puissant qui stocke des sites web qui on veut l'accéder. 
+-pour devenir un devellopeur web il faut apprendre a coder, avoir des projets et chercher des missions 
+-un developpeur web realise le cote technique d'un site web et le develloper il doit maitrise la langage de programmation, avoir une compétance élargie dans le domaine design et marketing.
